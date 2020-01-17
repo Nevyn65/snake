@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<curses.h>
+#include<conio.h>
 typedef struct snake
 {
 int a;
